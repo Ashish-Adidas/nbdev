@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev"
+  site-url: "https://Ashish-Adidas.github.io/nbdev"
+  description: "this repo is to test nbdev functionality"
+  repo-branch: main
+  repo-url: "https://github.com/Ashish-Adidas/nbdev"
